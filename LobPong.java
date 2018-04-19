@@ -6,7 +6,7 @@
 //Mike
 //-Convert Game and Player to horizontal single-paddle game
 
-//Sean
+//Sean Flynn
 
 //Brendan
 
